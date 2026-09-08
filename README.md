@@ -14,6 +14,16 @@ The main idea is simple:
 
 ---
 
+## Design Philosophy
+
+<p align="center">
+  <img src="start-ui.png" alt="Start UI" width="280">
+  <img src="main-ui.png" alt="Main UI" width="280">
+  <img src="chatbot-ui.png" alt="Chatbot UI" width="280">
+</p>
+
+---
+
 ## Problem We Are Trying to Solve
 
 Artisans often face several problems when trying to sell their products online:
